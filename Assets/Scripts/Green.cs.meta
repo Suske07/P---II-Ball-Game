@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 56cf18082d815284a9d153f465a93d03
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - greenPrefab: {fileID: 1185223051129380810, guid: 0ce61c24510353341975fd9eb249ab54, type: 3}
+  - killerPrefab: {fileID: 4520453375045835807, guid: 855fb0b548fbdc54982da0117c741193, type: 3}
+  - player: {fileID: 194057559875332968, guid: fe920867cce46d14aae7e4de70a6b875, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
